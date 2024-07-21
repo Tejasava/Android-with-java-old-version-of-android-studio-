@@ -4,7 +4,7 @@ Welcome to my collection of Android applications developed using Java. This repo
 
 1. [Calculator App](AllInOneSensorApp.java)
 2. [All In One Sensor App](AllInOneSensorApp.java)
-3. [Video Player App](#video-player-app)
+3. [Video Player App](VideoPlayer.java)
 4. [Quiz App](QuizApp.java)
 
 ---
