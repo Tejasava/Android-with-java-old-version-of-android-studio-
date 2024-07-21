@@ -2,7 +2,7 @@
 
 Welcome to my collection of Android applications developed using Java. This repository includes a variety of apps that showcase different functionalities and features of Android development. Below are the details of each project included in this repository:
 
-1. [Calculator App](AllInOneSensorApp.java)
+1. [Calculator App](claculater.java)
 2. [All In One Sensor App](AllInOneSensorApp.java)
 3. [Video Player App](VideoPlayer.java)
 4. [Quiz App](QuizApp.java)
